@@ -43,9 +43,9 @@
 
   /** Border colors */
   --border-wild-blue-yonder: hsla(216, 33%, 68%, 1);
-  --border-prussian-blue: hsla(216, 33%, 20%, 1);
+  --border-prussian-blue: rgb(178, 198, 240);
   --border-white: hsl(0, 0%, 100%);
-  --border-white-alpha-15: hsla(0, 0%, 100%, 0.15);
+  --border-white-alpha-15: hsla(262, 25%, 85%, 0.15);
 
   /** Default colors */
   --white: hsl(0, 0%, 100%, 1);
